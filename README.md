@@ -25,13 +25,17 @@ OR
 
 7. In MySQL shell, type  `source db/schema.sql;`  to run the file
 8. In your terminal: `npm install` to install the npm modules
+9. To run the app, in your terminal, type `npm start`
 
 
 ## Usageuse the [Heroku link](https://budget-tracker-app-pwa-bt.herokuapp.com/)
 * User will be able to add and delete posts, and comment to other posts
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/80712058/134537696-5a4ee3fb-ce1f-4482-a3ae-a6551dccdcc1.png)
+![image](https://user-images.githubusercontent.com/80712058/134791695-65370d22-52c3-4066-87dd-0f333d7756b7.png)
+![image](https://user-images.githubusercontent.com/80712058/134791719-b584b4fc-40a2-44a9-b6c4-47d898430e63.png)
+![image](https://user-images.githubusercontent.com/80712058/134791795-594a1261-bb96-45cd-a9c7-6b87958a481d.png)
+![image](https://user-images.githubusercontent.com/80712058/134791819-3a4bbf39-f13c-4ce8-9cda-0ee55b31468d.png)
 
 ## Contributing
 Contact me or create an issue or pull request
